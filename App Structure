@@ -1,0 +1,13 @@
+/UniversitySocialApp
+  |-- README.md
+  |-- src/
+      |-- Main.java
+      |-- User.java
+      |-- AuthenticationService.java
+      |-- SocialNetwork.java
+      |-- LocationService.java
+      |-- Coordinates.java
+      |-- Database.java
+      |-- MessagingService.java
+  |-- assets/ (images, logos, etc.)
+  |-- docs/ (any additional docs)
