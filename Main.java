@@ -1,3 +1,5 @@
+/*Entry Point*/
+
 import java.util.Scanner;
 
 public class Main {
