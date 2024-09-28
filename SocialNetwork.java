@@ -1,3 +1,5 @@
+/*Basic social interaction*/
+
 import java.util.HashMap;
 
 public class SocialNetwork {
